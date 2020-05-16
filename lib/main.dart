@@ -13,7 +13,20 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: AppStrings.APP_TITLE,
         theme: ThemeData(
-          primarySwatch: Colors.green,
+          textTheme: TextTheme(
+            headline1: TextStyle(
+              color: Color(0xFF1C2725),
+              fontSize: 24,
+              fontWeight: FontWeight.bold, 
+            ),
+            bodyText1: TextStyle(
+              color: Color(0xFF566865),
+              fontSize: 18
+            ),
+          ),
+          fontFamily: 'Comfortaa',
+          primaryColor: Color(0xFFC96DA5),
+          hintColor: Colors.red
         ),
         initialRoute: Routes.initialRoute,
         routes: Routes.routes,
