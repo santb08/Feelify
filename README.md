@@ -1,6 +1,16 @@
 # Feelify
 
-A new Flutter project.
+Feelify is a minimalist application that will help you to make your bullet journaling a bit more funny.
+
+With Feelify, you can trace your days a bit easier, follow your emotions, type what you did, rate your days on a scale of one to five, and even leave a song to remember it (That one that you sang the whole day in your mind).
+
+Feelify is completely transparent, you are the only person with access to your data, we won't store anything, since the app doesn't even have any backend server. 
+
+This app is completely free, with no DLCs or micro-transactions. That's because we're working on it with a tons of love and hoping that this may help someone anytime. You can leave us a feedback anytime at our [Discord server](https://discord.gg/gTKkbu), or you can even support us through [Donations](/#) section at the app
+
+Also, we're pretty inspired in other proyects with this purpose, such as [Pixels](https://play.google.com/store/apps/details?id=ar.teovogel.yip)
+
+Hope you enjoy it, and we will be waiting your feedback:)
 
 ## Getting Started
 
